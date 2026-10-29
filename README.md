@@ -34,7 +34,6 @@ The improved method restricts thresholding to the central chest region, removes 
 
 CLAHE increases information content (entropy) and edge detail; the Wiener filter then suppresses part of the amplified noise. Global RMS contrast changes slightly because CLAHE equalizes contrast locally rather than globally.
 
-![Segmentation comparison](results/segmentation%20comparison.png)
 
 ## Repository structure
 
